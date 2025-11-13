@@ -1,0 +1,28 @@
+SG-SAFECOIN/
+│
+├── README.md
+├── WHITEPAPER.md
+├── ROADMAP.md
+├── VISION.md
+├── FEATURES.md
+├── SECURITY_OVERVIEW.md
+├── BRAND_GUIDE/
+│   ├── SG_SAFECOIN_Brand_Guidelines.pdf
+│   ├── logos/
+│   ├── animated-logo/
+│   ├── color-palette.png
+│
+├── MEDIA/
+│   ├── posters/
+│   ├── wallet-mockups/
+│   ├── web-wallet/
+│   ├── pos-terminal/
+│   ├── nfc-wristband/
+│   ├── website-mockup/
+│
+├── DIAGRAMS/
+│   ├── ecosystem-overview.png
+│   ├── high-level-architecture.png
+│   ├── p2p-liquidity.png
+│
+└── LICENSE
